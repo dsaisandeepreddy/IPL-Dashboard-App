@@ -1,0 +1,9 @@
+/* Write your CSS here */
+
+.kohilwidth {
+  width: 800px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  margin-left: 55px;
+}
